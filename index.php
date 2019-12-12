@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>NewBiz Bootstrap Template</title>
+  <title>coco</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -37,7 +37,11 @@
 
 <body>
 
-<?php include "inicial.php"; ?>
+  <!--==========================
+  Header
+  ============================-->
+  <header id="header" class="fixed-top">
+    <div class="container">
 
 <?php  include "sobrenos.php"; ?>
 
@@ -45,6 +49,20 @@
 
 <?php  include "contatos.php"; ?>
 
+      <div class="intro-img">
+        <img src="img/intro-img.svg" alt="" class="img-fluid">
+      </div>
+
+      <div class="intro-info">
+        <h2>Menor preço<br><span>Garantido</span><br>for your business!</h2>
+        <div>
+          <a href="#about" class="btn-get-started scrollto">Get Started</a>
+          <a href="#services" class="btn-services scrollto">Our Services</a>
+        </div>
+      </div>
+
+    </div>
+  </section><!-- #intro -->
 
   <main id="main">
 
@@ -273,16 +291,16 @@
       <div class="container">
 
         <header class="section-header">
-          <h3 class="section-title">Our Portfolio</h3>
+          <h3 class="section-title">Produtos</h3>
         </header>
 
         <div class="row">
           <div class="col-lg-12">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter="*" class="filter-active">Tudo</li>
+              <li data-filter=".filter-app">Camisas</li>
+              <li data-filter=".filter-card">Bermudas</li>
+              <li data-filter=".filter-web">Calças</li>
             </ul>
           </div>
         </div>
@@ -586,7 +604,7 @@
           </div>
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h4>Contact Us</h4>
+            <h4>Contatos</h4>
             <p>
               A108 Adam Street <br>
               New York, NY 535022<br>
