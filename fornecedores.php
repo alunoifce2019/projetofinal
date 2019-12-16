@@ -1,18 +1,11 @@
-
-<?php
-
-echo"
-
-<!--==========================
-      Clients Section
-    ============================-->
-    <section id='clients' class='section-bg'>
+?php
+echo "
+<section id='clients' class='section-bg'>
 
       <div class='container'>
 
         <div class='section-header'>
-          <h3>Our CLients</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque dere santome nida.</p>
+          <h3>Fornecedores</h3>
         </div>
 
         <div class='row no-gutters clients-wrap clearfix wow fadeInUp'>
@@ -71,4 +64,33 @@ echo"
 
     </section>
 ";
-?>
+  ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+';
+  ?>
