@@ -21,7 +21,7 @@ echo "
               </div>
               <div class="col-md-3 info">
                 <i class="fa fa-whatsapp" aria-hidden="true"></i>
-                <p>9-99435821</p>
+                <p> 9-99435821 </p>
               </div>
             </div>
 
