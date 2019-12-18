@@ -1,6 +1,6 @@
-?php
-echo "
+<?php
 
+echo "
 <section id='portfolio' class='clearfix'>
       <div class='container'>
         <header class='section-header'>
@@ -125,7 +125,7 @@ echo "
             <div class='portfolio-wrap'>
               <img src='img/portfolio/web1.jpg' class='img-fluid' alt=''>
               <div class='portfolio-info'>
-                <h4><a href='#'>Calça Tela Preta</a></h4>
+                <h4><a href='#'>Calça Tela Branca</a></h4>
                 <p>Calça</p>
                 <div>
                   <a href='img/portfolio/web1.jpg' class='link-preview' data-lightbox='portfolio' data-title='Web 1' title='Preview'><i class='ion ion-eye'></i></a>
@@ -139,5 +139,5 @@ echo "
     </section><!-- #portfolio -->
 
 
-";
+"
   ?>
