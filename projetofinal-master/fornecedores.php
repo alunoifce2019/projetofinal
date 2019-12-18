@@ -1,4 +1,4 @@
-?php
+<?php
 echo "
 <section id='clients' class='section-bg'>
 

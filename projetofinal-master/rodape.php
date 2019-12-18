@@ -1,4 +1,4 @@
-?php
+<?php
 echo "
 <footer id='footer'>
     <div class='footer-top'>
